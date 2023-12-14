@@ -21,6 +21,15 @@
   <p>
     🇰🇷 Korean born, internationally educated, US resident since 2019
   </p>
+  <p>
+    🐕 Mama of an Australian Cattle Dog / German Shepherd mix rescue baby
+  </p>
+  <p>
+    🎶 Hip Hop / Trap / Future House lover / can DJ
+  </p>
+  <p>
+    🍲 People seem to love my cooking 
+  </p>
 </div>
 <p align="center">
   <a href="https://github.com/hypyeon"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'></a>  
