@@ -2,7 +2,7 @@
 <p align="center">Web Dev and Designer based in Portland, Oregon.</p>
 
 <p align="center">
-  <img width="200" height="200" src="https://github.com/hypyeon/hypyeon/blob/main/marginalia-a-person-sitting-in-front-of-a-computer-screen.gif">
+  <img width="180" height="180" src="https://github.com/hypyeon/hypyeon/blob/main/sammy-line-young-woman-coding-on-laptop.gif">
 </p>
 <p align="center">
   <a href="https://github.com/hypyeon"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'></a>  
