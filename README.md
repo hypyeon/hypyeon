@@ -2,7 +2,7 @@
 <p align="center">Web Dev and Designer based in Portland, Oregon.</p>
 
 <p align="center">
-  <img width="180" height="180" src="https://github.com/hypyeon/hypyeon/blob/main/sammy-line-young-woman-coding-on-laptop.gif">
+  <a href="https://icons8.com/illustrations/author/7WmtYU90j36d"><img width="180" height="180" src="https://github.com/hypyeon/hypyeon/blob/main/sammy-line-young-woman-coding-on-laptop.gif"></a>
 </p>
 <h3>About Me</h3>
 <div>
