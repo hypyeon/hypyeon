@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-https://github.com/hypyeon/hypyeon/blob/main/marginalia-a-person-sitting-in-front-of-a-computer-screen.gif
-marginalia-a-person-sitting-in-front-of-a-computer-screen.gif
+(https://github.com/hypyeon/hypyeon/blob/main/marginalia-a-person-sitting-in-front-of-a-computer-screen.gif)
 
 <!--
 **hypyeon/hypyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
