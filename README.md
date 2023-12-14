@@ -12,10 +12,10 @@
 <h3>About Me</h3>
 <div>
   <p>
-    👩🏻‍🏫 Currently a student at <a href="https://www.epicodus.com/">Epicodus</a>  
+    👩🏻‍🏫 Current student at <a href="https://www.epicodus.com/">Epicodus</a> / Previous student at <a href="https://www.codecademy.com/profiles/hayongcodes">CodeCademy</a> (2020)
   </p>
   <p>
-    ⌨️ JS / SCSS / HTML 
+    ⌨️ JavaScript / SCSS / HTML 
   </p>
   <p>
     ✍🏻 Frontend / Figma / Boostrap / Web Animation / Responsive Design
