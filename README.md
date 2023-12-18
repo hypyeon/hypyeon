@@ -19,7 +19,7 @@
     🌎 Trilingual: English, Korean, Mandarin
   </p>
   <p>
-    🇰🇷 Korean born, internationally educated, US resident since 2019
+    🇰🇷 Korean born, internationally educated, US resident since 2020
   </p>
   <p>
     🐕 Mama of an Australian Cattle Dog / German Shepherd mix rescue baby
