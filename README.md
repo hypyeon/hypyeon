@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://icons8.com/illustrations/author/7WmtYU90j36d"><img width="180" height="180" src="https://github.com/hypyeon/hypyeon/blob/main/sammy-line-young-woman-coding-on-laptop.gif"></a>
 </p>
-<h3>Web Dev</h3>
+<h3>Web Dev / Early career Software Engineer </h3>
 <div>
   <p>
     👩🏻‍🏫 Current student at <a href="https://www.epicodus.com/">Epicodus</a> / Previous student at <a href="https://www.codecademy.com/profiles/hayongcodes">CodeCademy</a> (2020)
