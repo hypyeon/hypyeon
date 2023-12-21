@@ -13,7 +13,7 @@
     ⌨️ JavaScript / SCSS / HTML 
   </p>
   <p>
-    ✍🏻 Frontend / Figma / Boostrap / Web Animation / Responsive Design
+    ✍🏻 Frontend / Figma / Responsive Design / Web Animation
   </p>
   <p>
     🌎 Trilingual: English, Korean, Mandarin
@@ -22,13 +22,16 @@
     🇰🇷 Korean born, internationally educated, US resident since 2020
   </p>
   <p>
+    🎓 B.A. in Global Studies, International Relations
+  </p>
+  <p>
     🐕 Mama of an Australian Cattle Dog / German Shepherd mix rescue baby
   </p>
   <p>
     🎶 Hip Hop / Trap / Future House lover / can DJ
   </p>
   <p>
-    🍲 People seem to love my cooking 
+    🍲 People seem to enjoy my cooking 
   </p>
 </div>
 <p align="center">
