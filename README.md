@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://icons8.com/illustrations/author/7WmtYU90j36d"><img width="180" height="180" src="https://github.com/hypyeon/hypyeon/blob/main/sammy-line-young-woman-coding-on-laptop.gif"></a>
 </p>
-<h3>About Me</h3>
+<h3>Web Dev</h3>
 <div>
   <p>
     👩🏻‍🏫 Current student at <a href="https://www.epicodus.com/">Epicodus</a> / Previous student at <a href="https://www.codecademy.com/profiles/hayongcodes">CodeCademy</a> (2020)
@@ -15,6 +15,9 @@
   <p>
     ✍🏻 Frontend / Figma / Responsive Design / Web Animation
   </p>
+</div>
+<h3>Background</h3>
+<div>
   <p>
     🌎 Trilingual: English, Korean, Mandarin
   </p>
@@ -24,6 +27,9 @@
   <p>
     🎓 B.A. in Global Studies, International Relations
   </p>
+</div>
+<h3>Others</h3>
+<div>
   <p>
     🐕 Mama of an Australian Cattle Dog / German Shepherd mix rescue baby
   </p>
