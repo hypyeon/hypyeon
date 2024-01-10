@@ -28,7 +28,7 @@
     🎓 B.A. in Global Studies, International Relations
   </p>
 </div>
-<h3>Others</h3>
+<h3>More</h3>
 <div>
   <p>
     🐕 Mama of an Australian Cattle Dog / German Shepherd mix rescue baby
