@@ -10,7 +10,7 @@
     👩🏻‍🏫 Current student at <a href="https://www.epicodus.com/">Epicodus</a> / Previous student at <a href="https://www.codecademy.com/profiles/hayongcodes">CodeCademy</a> (2020)
   </p>
   <p>
-    ⌨️ JavaScript / SCSS / HTML 
+    ⌨️ JavaScript / SCSS / HTML / RESTful API / React
   </p>
   <p>
     ✍🏻 Frontend / Figma / Responsive Design / Web Animation
