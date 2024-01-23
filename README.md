@@ -4,9 +4,6 @@
 <p align="center">
   <a href="https://icons8.com/illustrations/author/7WmtYU90j36d"><img width="180" height="180" src="https://github.com/hypyeon/hypyeon/blob/main/sammy-line-young-woman-coding-on-laptop.gif"></a>
 </p>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hypyeon" alt="GitHub Stats">
-</div>
 <h3>Web Dev / Early career Software Engineer </h3>
 <div>
   <p>
