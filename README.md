@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://icons8.com/illustrations/author/7WmtYU90j36d"><img width="180" height="180" src="https://github.com/hypyeon/hypyeon/blob/main/sammy-line-young-woman-coding-on-laptop.gif"></a>
-  [![Hayeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hypyeon)](https://github.com/hypyeon/github-readme-stats)
+  ![Hayeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hypyeon)
 </p>
 <h3>Web Dev / Early career Software Engineer </h3>
 <div>
