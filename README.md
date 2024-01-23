@@ -3,14 +3,15 @@
 
 <p align="center">
   <a href="https://icons8.com/illustrations/author/7WmtYU90j36d"><img width="180" height="180" src="https://github.com/hypyeon/hypyeon/blob/main/sammy-line-young-woman-coding-on-laptop.gif"></a>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hypyeon)](https://github.com/hypyeon/github-readme-stats)
 </p>
 <h3>Web Dev / Early career Software Engineer </h3>
 <div>
   <p>
-    👩🏻‍🏫 Current student at <a href="https://www.epicodus.com/">Epicodus</a> / Previous student at <a href="https://www.codecademy.com/profiles/hayongcodes">CodeCademy</a> (2020)
+    👩🏻‍🏫 Current student at <a href="https://www.epicodus.com/">Epicodus</a> / Completed courses in Frontend languages from <a href="https://www.codecademy.com/profiles/hayongcodes">CodeCademy</a>
   </p>
   <p>
-    ⌨️ JavaScript / SCSS / HTML / RESTful API / React
+    ⌨️ React / JavaScript / SCSS / HTML / RESTful API
   </p>
   <p>
     ✍🏻 Frontend / Figma / Responsive Design / Web Animation
