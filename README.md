@@ -10,7 +10,7 @@
     👩🏻‍🏫 Current student at <a href="https://www.epicodus.com/">Epicodus</a> / Completed courses in Frontend languages from <a href="https://www.codecademy.com/profiles/hayongcodes">CodeCademy</a>
   </p>
   <p>
-    ⌨️ React / JavaScript / SCSS / HTML / RESTful API
+    ⌨️ React / JavaScript / SCSS / HTML / RESTful API / NoSQL
   </p>
   <p>
     ✍🏻 Frontend / Figma / Responsive Design / Web Animation
