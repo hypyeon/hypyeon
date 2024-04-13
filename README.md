@@ -7,13 +7,13 @@
 <h3>Web Dev / Early career Software Engineer </h3>
 <div>
   <p>
-    👩🏻‍🏫 Current student at <a href="https://www.epicodus.com/">Epicodus</a> / Completed courses in Frontend languages from <a href="https://www.codecademy.com/profiles/hayongcodes">CodeCademy</a>
+    👩🏻‍🏫 Web & Mobile/Fullstack Dev course (May 2024 Grad) from <a href="https://www.epicodus.com/">Epicodus</a> / Completed Frontend language courses from <a href="https://www.codecademy.com/profiles/hayongcodes">CodeCademy</a>
   </p>
   <p>
-    ⌨️ React / C# / .NET / JavaScript / SCSS / RESTful API / NoSQL / HTML
+    ⌨️ React / C# / .NET / JavaScript / SCSS / Tailwind / RESTful API / NoSQL / HTML
   </p>
   <p>
-    ✍🏻 Frontend / Figma / Responsive Design / Web Animation
+    ✍🏻 UI / Figma / Responsive Design / Web Animation
   </p>
 </div>
 <h3>Background</h3>
@@ -34,7 +34,7 @@
     🐕 Mama of an Australian Cattle Dog / German Shepherd mix rescue baby
   </p>
   <p>
-    🎶 Hip Hop / Trap / Future House lover / can DJ
+    🎶 Hip Hop / Trap / Future House lover / DJ
   </p>
   <p>
     🍲 People seem to enjoy my cooking 
