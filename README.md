@@ -1,19 +1,19 @@
 <h1 align="center">Hi! I'm Hayeong. 🫶🏻 </h1> 
-<p align="center">Web Dev and Designer based in Portland, Oregon.</p>
+<p align="center">Software Engineer Intern / Web Dev & UI Designer based in Portland, Oregon.</p>
 
 <p align="center">
   <a href="https://icons8.com/illustrations/author/7WmtYU90j36d"><img width="180" height="180" src="https://github.com/hypyeon/hypyeon/blob/main/sammy-line-young-woman-coding-on-laptop.gif"></a>
 </p>
-<h3>Web Dev / Early career Software Engineer </h3>
+<h3>Early career Software Engineer</h3>
 <div>
   <p>
     👩🏻‍🏫 Web & Mobile/Fullstack Dev course (May 2024 Grad) from <a href="https://www.epicodus.com/">Epicodus</a> / Completed Frontend language courses from <a href="https://www.codecademy.com/profiles/hayongcodes">CodeCademy</a>
   </p>
   <p>
-    ⌨️ React / C# / .NET / JavaScript / SCSS / Tailwind / RESTful API / NoSQL / HTML
+    ⌨️ React / Redux / C# / .NET / JavaScript / SCSS / Tailwind CSS / RESTful API / NoSQL / HTML
   </p>
   <p>
-    ✍🏻 UI / Figma / Responsive Design / Web Animation
+    ✍🏻 UI Dev / Figma / Responsive Design / Web Animation
   </p>
 </div>
 <h3>Background</h3>
@@ -22,10 +22,10 @@
     🌎 Trilingual: English, Korean, Mandarin
   </p>
   <p>
-    🇰🇷 Korean born, internationally educated, US resident since 2020
+    🇰🇷 Korean born, internationally educated, US resident
   </p>
   <p>
-    🎓 B.A. in Global Studies, International Relations
+    🎓 B.A. in Global Studies, International Relations (2018 Grad)
   </p>
 </div>
 <h3>More</h3>
