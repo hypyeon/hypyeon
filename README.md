@@ -44,4 +44,4 @@
   <a href="https://www.linkedin.com/in/hayeongp828663811/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'></a>  
   <a href="https://hypyeon.github.io/WebDevWebsite/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'></a>  
 </p>
-![](https://gh-hits.nomadcoders.workers.dev/view?username=hypyeon)
+![](https://gh-hits.nomadcoders.workers.dev/view?username=$hypyeon)
