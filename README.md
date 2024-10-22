@@ -6,19 +6,19 @@
 <h3>Software Engineer | Frontend Developer | UI Designer </h3>
 <div>
   <p>
-    👩🏻‍🏫 Web & Mobile/Fullstack Dev course (May 2024 Grad) from <a href="https://www.epicodus.com/">Epicodus</a> / Completed Frontend language courses from <a href="https://www.codecademy.com/profiles/hayongcodes">CodeCademy</a>
+    👩🏻‍🏫 <a href="https://www.linkedin.com/school/epicodus/posts/?feedView=all">Epicodus</a> Grad (2024) / Started coding journey with <a href="https://www.codecademy.com/profiles/hayongcodes">CodeCademy</a> / Freelance Web Dev experience
   </p>
   <p>
-    ⌨️ React / Redux / C# / .NET / JavaScript / SCSS / Tailwind CSS / RESTful API / NoSQL / HTML
+    ⌨️ React.js / React Native / C# / .NET / JavaScript / Tailwind CSS / SCSS / RESTful API / NoSQL / HTML
   </p>
   <p>
-    ✍🏻 UI Dev / Figma / Responsive Design / Web Animation
+    ✍🏻 UI Design / Figma / Responsive Design / Web Animation
   </p>
 </div>
 <h3>Background</h3>
 <div>
   <p>
-    🌎 Trilingual: English, Korean, Mandarin
+    🌎 Trilingual: English, Korean, Mandarin / Experienced in Localization
   </p>
   <p>
     🇰🇷 Korean born, internationally educated, US resident
